@@ -1,0 +1,215 @@
+.btn-dark {
+
+    color: #92E3A9;
+    background-color: #263238;
+    border-color: #263238;
+}
+
+.btn-dark-incarca {
+
+    color: #92E3A9;
+    background-color: #263238;
+    border-color: #263238;
+    width: 218.08px;
+    height: 40px;
+}   
+
+.btn-light {
+
+    color: #263238;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn-green {
+
+    color: #263238;
+    background-color: #92E3A9;
+    border-color: #92E3A9;
+}
+
+.btn-footer {
+
+    color: #FFFFFF;
+    background-color: #263238;
+    border-color: #263238;
+}
+
+p1 {
+
+    width: 56px;
+    height: 20px; 
+
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+}
+
+p2 {
+
+    width: 90px;
+    height: 20px;
+
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+
+h1 {
+
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 121.1%;
+
+}
+
+h2 {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+p3 {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+p4 {
+
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 121.1%;
+
+    text-align: center;
+}
+
+p5 {
+
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+
+h3 {
+
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 121.1%;
+
+}
+
+p7 {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+
+p8 {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #92E3A9;
+
+}
+
+
+.under {
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.over {
+
+    position: absolute;
+    left: 16px;
+    top: 12px;
+}
+
+.rectangle {
+
+    position: relative;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(38, 50, 56, 0.2);
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 786px) {
+    .btn {
+
+        width:100% !important;
+    } 
+
+    h1 {
+
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 121.1%;
+
+        text-align: center;
+
+    }
+
+    h2 {
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+
+        text-align: center;
+
+    }
+
+    h3 {
+
+        font-family: Merriweather;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 29px;
+        line-height: 121.1%;
+
+        text-align: center;
+
+    }
+}
